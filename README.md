@@ -1,3 +1,9 @@
+# Important
+
+This repo has moved to https://github.com/sdss/sqlalchemy-boolean-search
+
+--
+
 # SQLAlchemy-boolean-search
 SQLAlchemy-boolean-search translates a boolean search string such as:
 
